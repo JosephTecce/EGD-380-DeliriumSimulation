@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.egd380deliriumsimulation.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\joseph.tecce\\source\\repos\\EGD-380-DeliriumSimulation\\EGD-380-DeliriumSimulation\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "EGD-380-DeliriumSimulation [Testing]"
+        }
+      }
+    }
+  ]
+}
