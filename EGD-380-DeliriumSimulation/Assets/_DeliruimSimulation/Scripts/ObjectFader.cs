@@ -28,4 +28,11 @@ public class ObjectFader : MonoBehaviour
     {
         Fade( 0, 1 );
     }
+
+    private void OnDestroy()
+    {
+        Color color = material.color;
+        color.a = 1f;
+        material.color = color;
+    }
 }
