@@ -12,16 +12,16 @@ using UnityEngine;
 public class PlayerLineOfSight : MonoBehaviour
 {
     [SerializeField] private LayerMask lineOfSightLayer;
-    [SerializeField] private Transform playerHMD;
+    [SerializeField] private Transform playerCamera;
     [SerializeField] private float maxDistance = 5000f;
 
     private void FixedUpdate()
     {
-        Physics.Raycast( playerHMD.position, playerHMD.forward, maxDistance, lineOfSightLayer, QueryTriggerInteraction.Collide); // QueryTriggerInteraction.Collide allows this ray to collide w/ triggers
+        Physics.Raycast( playerCamera.position, playerCamera.forward, maxDistance, lineOfSightLayer, QueryTriggerInteraction.Collide); // QueryTriggerInteraction.Collide allows this ray to collide w/ triggers
     }
 
     private void OnDrawGizmosSelected()
     {
-        Debug.DrawRay( playerHMD.position, playerHMD.forward );
+        Debug.DrawRay( playerCamera.position, playerCamera.forward );
     }
 }
