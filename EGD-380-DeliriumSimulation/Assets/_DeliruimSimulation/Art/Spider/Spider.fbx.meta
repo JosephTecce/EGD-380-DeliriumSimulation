@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: d0f3e69657043ec478a598c0f2664023
+timeCreated: 1458318493
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bug_L_2FrontLegCalf
+    100004: Bug_L_2FrontLegFoot
+    100006: Bug_L_2FrontLegFoot_end
+    100008: Bug_L_2FrontLegThigh
+    100010: Bug_L_3FrontLegCalf
+    100012: Bug_L_3FrontLegFoot
+    100014: Bug_L_3FrontLegFoot_end
+    100016: Bug_L_3FrontLegThigh
+    100018: Bug_L_BackLegCalf
+    100020: Bug_L_BackLegFoot
+    100022: Bug_L_BackLegFoot_end
+    100024: Bug_L_BackLegThigh
+    100026: Bug_L_FrontLegCalf
+    100028: Bug_L_FrontLegFoot
+    100030: Bug_L_FrontLegFoot_end
+    100032: Bug_L_FrontLegThigh
+    100034: Bug_L_Mandible
+    100036: Bug_L_Mandible_end
+    100038: Bug_L_Palp
+    100040: Bug_L_Palp_end
+    100042: Bug_Pelvis
+    100044: Bug_R_2FrontLegCalf
+    100046: Bug_R_2FrontLegFoot
+    100048: Bug_R_2FrontLegFoot_end
+    100050: Bug_R_2FrontLegThigh
+    100052: Bug_R_3FrontLegCalf
+    100054: Bug_R_3FrontLegFoot
+    100056: Bug_R_3FrontLegFoot_end
+    100058: Bug_R_3FrontLegThigh
+    100060: Bug_R_BackLegCalf
+    100062: Bug_R_BackLegFoot
+    100064: Bug_R_BackLegFoot_end
+    100066: Bug_R_BackLegThigh
+    100068: Bug_R_FrontLegCalf
+    100070: Bug_R_FrontLegFoot
+    100072: Bug_R_FrontLegFoot_end
+    100074: Bug_R_FrontLegThigh
+    100076: Bug_R_Mandible
+    100078: Bug_R_Mandible_end
+    100080: Bug_R_Palp
+    100082: Bug_R_Palp_end
+    100084: Bug_Torso
+    100086: Bug_Torso_end
+    100088: Spider
+    100090: //RootNode
+    400000: Armature
+    400002: Bug_L_2FrontLegCalf
+    400004: Bug_L_2FrontLegFoot
+    400006: Bug_L_2FrontLegFoot_end
+    400008: Bug_L_2FrontLegThigh
+    400010: Bug_L_3FrontLegCalf
+    400012: Bug_L_3FrontLegFoot
+    400014: Bug_L_3FrontLegFoot_end
+    400016: Bug_L_3FrontLegThigh
+    400018: Bug_L_BackLegCalf
+    400020: Bug_L_BackLegFoot
+    400022: Bug_L_BackLegFoot_end
+    400024: Bug_L_BackLegThigh
+    400026: Bug_L_FrontLegCalf
+    400028: Bug_L_FrontLegFoot
+    400030: Bug_L_FrontLegFoot_end
+    400032: Bug_L_FrontLegThigh
+    400034: Bug_L_Mandible
+    400036: Bug_L_Mandible_end
+    400038: Bug_L_Palp
+    400040: Bug_L_Palp_end
+    400042: Bug_Pelvis
+    400044: Bug_R_2FrontLegCalf
+    400046: Bug_R_2FrontLegFoot
+    400048: Bug_R_2FrontLegFoot_end
+    400050: Bug_R_2FrontLegThigh
+    400052: Bug_R_3FrontLegCalf
+    400054: Bug_R_3FrontLegFoot
+    400056: Bug_R_3FrontLegFoot_end
+    400058: Bug_R_3FrontLegThigh
+    400060: Bug_R_BackLegCalf
+    400062: Bug_R_BackLegFoot
+    400064: Bug_R_BackLegFoot_end
+    400066: Bug_R_BackLegThigh
+    400068: Bug_R_FrontLegCalf
+    400070: Bug_R_FrontLegFoot
+    400072: Bug_R_FrontLegFoot_end
+    400074: Bug_R_FrontLegThigh
+    400076: Bug_R_Mandible
+    400078: Bug_R_Mandible_end
+    400080: Bug_R_Palp
+    400082: Bug_R_Palp_end
+    400084: Bug_Torso
+    400086: Bug_Torso_end
+    400088: Spider
+    400090: //RootNode
+    4300000: Spider
+    7400000: idle
+    7400002: idle
+    7400004: idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Spider
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bug_Pelvis
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_2FrontLegThigh
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_2FrontLegThigh/Bug_L_2FrontLegCalf
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_2FrontLegThigh/Bug_L_2FrontLegCalf/Bug_L_2FrontLegFoot
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_2FrontLegThigh/Bug_L_2FrontLegCalf/Bug_L_2FrontLegFoot/Bug_L_2FrontLegFoot_end
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_3FrontLegThigh
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_3FrontLegThigh/Bug_L_3FrontLegCalf
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_3FrontLegThigh/Bug_L_3FrontLegCalf/Bug_L_3FrontLegFoot
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_3FrontLegThigh/Bug_L_3FrontLegCalf/Bug_L_3FrontLegFoot/Bug_L_3FrontLegFoot_end
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_BackLegThigh
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_BackLegThigh/Bug_L_BackLegCalf
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_BackLegThigh/Bug_L_BackLegCalf/Bug_L_BackLegFoot
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_BackLegThigh/Bug_L_BackLegCalf/Bug_L_BackLegFoot/Bug_L_BackLegFoot_end
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_FrontLegThigh
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_FrontLegThigh/Bug_L_FrontLegCalf
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_FrontLegThigh/Bug_L_FrontLegCalf/Bug_L_FrontLegFoot
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_FrontLegThigh/Bug_L_FrontLegCalf/Bug_L_FrontLegFoot/Bug_L_FrontLegFoot_end
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_Mandible
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_Mandible/Bug_L_Mandible_end
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_Palp
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_L_Palp/Bug_L_Palp_end
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_2FrontLegThigh
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_2FrontLegThigh/Bug_R_2FrontLegCalf
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_2FrontLegThigh/Bug_R_2FrontLegCalf/Bug_R_2FrontLegFoot
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_2FrontLegThigh/Bug_R_2FrontLegCalf/Bug_R_2FrontLegFoot/Bug_R_2FrontLegFoot_end
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_3FrontLegThigh
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_3FrontLegThigh/Bug_R_3FrontLegCalf
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_3FrontLegThigh/Bug_R_3FrontLegCalf/Bug_R_3FrontLegFoot
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_3FrontLegThigh/Bug_R_3FrontLegCalf/Bug_R_3FrontLegFoot/Bug_R_3FrontLegFoot_end
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_BackLegThigh
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_BackLegThigh/Bug_R_BackLegCalf
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_BackLegThigh/Bug_R_BackLegCalf/Bug_R_BackLegFoot
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_BackLegThigh/Bug_R_BackLegCalf/Bug_R_BackLegFoot/Bug_R_BackLegFoot_end
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_FrontLegThigh
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_FrontLegThigh/Bug_R_FrontLegCalf
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_FrontLegThigh/Bug_R_FrontLegCalf/Bug_R_FrontLegFoot
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_FrontLegThigh/Bug_R_FrontLegCalf/Bug_R_FrontLegFoot/Bug_R_FrontLegFoot_end
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_Mandible
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_Mandible/Bug_R_Mandible_end
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_Palp
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_R_Palp/Bug_R_Palp_end
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_Torso
+        weight: 1
+      - path: Armature/Bug_Pelvis/Bug_Torso/Bug_Torso_end
+        weight: 1
+      - path: Spider
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 100
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
