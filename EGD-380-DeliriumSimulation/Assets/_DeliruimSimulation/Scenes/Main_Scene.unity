@@ -296,11 +296,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: b2bc4216fce19e94fb4815e0232f5fa2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.1029134
+      value: 6.103
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: b2bc4216fce19e94fb4815e0232f5fa2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.750705
+      value: 7.74
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: b2bc4216fce19e94fb4815e0232f5fa2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4087,6 +4087,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 096cf09564c9f8244920a34850523668, type: 3}
       propertyPath: m_Name
       value: operating_lamp
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 096cf09564c9f8244920a34850523668, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 096cf09564c9f8244920a34850523668, type: 3}
       propertyPath: m_RootOrder
@@ -10108,7 +10112,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &5450589076557636853
 Transform:
   m_ObjectHideFlags: 0
@@ -10528,13 +10532,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
-  m_WarningMessage: "\nBinding warning: Some generic clip(s) animate transforms that
-    are already bound by a Humanoid avatar. These transforms can only be changed
-    by Humanoid clips.\n\tTransform 'mixamorig:LeftFoot'\n\tTransform 'mixamorig:LeftHandThumb2'\n\tTransform
-    'mixamorig:LeftHandIndex1'\n\tTransform 'mixamorig:LeftHandPinky2'\n\tTransform
-    'mixamorig:RightHandRing2'\n\tTransform 'mixamorig:Spine1'\n\tTransform 'mixamorig:LeftToeBase'\n\tTransform
-    'mixamorig:LeftHandThumb3'\n\tTransform 'mixamorig:RightArm'\n\tTransform 'mixamorig:LeftLeg'\n\tand
-    more ..."
+  m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
