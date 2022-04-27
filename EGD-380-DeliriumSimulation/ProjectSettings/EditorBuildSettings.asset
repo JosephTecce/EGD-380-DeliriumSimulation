@@ -4,7 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_DeliruimSimulation/Scenes/Main_Menu.unity
+    guid: 7f32c77ee2ac44b47b19261132817eb6
+  - enabled: 1
+    path: Assets/_DeliruimSimulation/Scenes/RefraintModel.unity
+    guid: 56ef7266ae5e14844ad064efd6512e96
+  - enabled: 1
+    path: Assets/_DeliruimSimulation/Scenes/Main_Scene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: cae458af48f5d2645acb546dd61d8f8c, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9c41e7404ad376a4eb7a294d6e2c2ea7, type: 2}
